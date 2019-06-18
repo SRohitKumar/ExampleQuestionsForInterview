@@ -1,0 +1,16 @@
+1) Whole Minute Dilema
+2) WebsitePagination
+3) Adding Two numbers :- Two floating point numbers
+4) EricBob
+5) Holes in a number
+6) FizzBuzz
+7) ShapeClass
+8) The Robot class
+9) Comparison Class  String, int array
+11) Difference between 2 points or  Point 2D and 3D done.
+12 ) UndeliveredOrderedQuery
+13) Perfect Arrangement Query
+14) Student Query Done
+15) SuperHeroNames Query
+16) Couting Pairs
+17) Pallindrome count from a String
